@@ -106,7 +106,7 @@ int main(){
 	        s=s+f;
         }
      }
-	printf("%.2f/n", s);
+	printf("%.2f\n", s);
      return 0;
 }
 
